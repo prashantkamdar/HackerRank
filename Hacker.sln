@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LetsReview", "LetsReview\Le
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{2381A851-22B5-4E57-9191-58DA257FA025}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionariesAndMaps", "DictionariesAndMaps\DictionariesAndMaps.csproj", "{90386532-DC03-4A9C-BA17-01AD170865F5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{2381A851-22B5-4E57-9191-58DA257FA025}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2381A851-22B5-4E57-9191-58DA257FA025}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2381A851-22B5-4E57-9191-58DA257FA025}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90386532-DC03-4A9C-BA17-01AD170865F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90386532-DC03-4A9C-BA17-01AD170865F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90386532-DC03-4A9C-BA17-01AD170865F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90386532-DC03-4A9C-BA17-01AD170865F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
