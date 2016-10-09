@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursion", "Recursion\Recu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryNumbers", "BinaryNumbers\BinaryNumbers.csproj", "{FFCD1F3A-64C5-46F4-BB3F-4CF24383B9B7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompareTheTriplets", "CompareTheTriplets\CompareTheTriplets.csproj", "{8152718D-4E15-4FB9-B819-5A539F4FA961}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{FFCD1F3A-64C5-46F4-BB3F-4CF24383B9B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FFCD1F3A-64C5-46F4-BB3F-4CF24383B9B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FFCD1F3A-64C5-46F4-BB3F-4CF24383B9B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8152718D-4E15-4FB9-B819-5A539F4FA961}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8152718D-4E15-4FB9-B819-5A539F4FA961}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8152718D-4E15-4FB9-B819-5A539F4FA961}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8152718D-4E15-4FB9-B819-5A539F4FA961}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
